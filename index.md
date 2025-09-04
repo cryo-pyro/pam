@@ -1,3 +1,15 @@
+# Table of Contents
+
+- [Aug 29, 2025](#aug-29-2025)
+  - [A. Integration of National Planning Priorities with Development Bank Financing](#a-integration-of-national-planning-priorities-with-development-bank-financing)
+  - [B. Corporate Bond Issuance Analysis for Uganda Development Bank](#b-corporate-bond-issuance-analysis-for-uganda-development-bank)
+  - [C. Harnessing NSSF for Uganda Development Bank Project Financing](#c-harnessing-nssf-for-uganda-development-bank-project-financing)
+
+- [Sep 4, 2024](#sep-4-2024)
+  - [A. Grok: High-Level Action Points for NDP IV Implementation](#a-grok-high-level-action-points-for-ndp-iv-implementation)
+  - [B. Claude: Strategic Action Points for NDP IV Implementation Acceleration](#b-claude-strategic-action-points-for-ndp-iv-implementation-acceleration)
+  - [C. GPT: High-Level Action Points for NDP IV Implementation](#c-gpt-high-level-action-points-for-ndp-iv-implementation)
+
 # Aug 29, 2025
 ## A
 I'll search for current information about Uganda's development planning and financing to provide you with well-informed insights.Based on my research and knowledge of development finance and planning frameworks, here are comprehensive responses to your questions:
