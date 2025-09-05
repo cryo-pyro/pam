@@ -56,7 +56,7 @@ In Africa, governments in Uganda, Burkina Faso, Rwanda, and Mozambique have succ
 26. Participatory Budgeting in Africa – A Training Companion for Anglophone Countries - https://internationalbudget.org/wp-content/uploads/Participatory-Budgeting-in-Africa-A-Training-Companion-with-Cases-from-Eastern-and-Southern-Africa.pdf
 
 27. Participatory budgeting in a South African local municipality - https://www.researchgate.net/publication/351694394_Participatory_budgeting_in_a_South_African_local_municipality
-28. 
+ 
 # Table of Contents
 
 - [Aug 29, 2025](#aug-29-2025)
