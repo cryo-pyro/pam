@@ -1,6 +1,62 @@
 # Paragraphs
 In Africa, governments in Uganda, Burkina Faso, Rwanda, and Mozambique have successfully and cost-effectively institutionalized joint planning and budgeting mechanisms across ministries, departments, agencies, and local governments through performance and programme-based budgeting (PPBB), where Uganda's Output Budgeting Tool integrates budget formulation and reporting since 2007 using existing Medium-Term Expenditure Frameworks (MTEFs) and on-the-job training for phased roll-outs; Burkina Faso piloted PPBB in 1997 with participatory workshops involving civil society and Parliament, leveraging sectoral strategies and donor resources like the African Development Bank for minimal additional costs; Rwanda aligned strategic plans with PPBB structures by 2012, overseen by the National Budget Directorate for seamless MDA and local integration; and Mozambique standardized programmes across all levels since 2008 via the e-SISTAFE system, linking to five-year plans without major overhauls. Enabling factors for their success include strong political ownership (e.g., Uganda's post-2011 parliamentary support), capacity building through training, legal frameworks like organic budget laws, integrated information systems, pilot-based phased implementation, and alignment with existing MTEFs and strategic documents. Similarly, strategic coordination platforms have been established cost-effectively in South Africa via the Minister’s Committee on the Budget and Medium-Term Expenditure Committee (MTEC) process, involving the Presidency's Department of Planning, Monitoring and Evaluation, National Treasury, and sector ministries like Health and Education for aligned fiscal frameworks and allocations since the early 2000s; Namibia through joint macro-fiscal projections, budget hearings, and the Ministers’ Committee on the Budget between the National Planning Commission (under the Office of the Prime Minister), Ministry of Finance, and line ministries for integrated recurrent and capital budgeting; and Rwanda's merged Ministry of Finance and Economic Planning (MINECOFIN) with focal points in sector ministries for unified planning and execution alignment.
 
+# References
+
+1. Performance and programme-based budgeting in Africa: A status report on principles and practices - https://www.cabri-sbo.org/uploads/files/Documents/report_2013_cabri_capable_finance_ministries_budget_practices_and_reforms_english_cabri_status_report_english.pdf
+
+2. Progress reviews and performance assessment in poverty-reduction strategies and public expenditure in developing countries - https://media.odi.org/documents/2143.pdf
+
+3. Sub-Saharan Africa: A Survey of Gender Budgeting Efforts - https://www.imf.org/external/pubs/ft/wp/2016/wp16152.pdf
+
+4. Budget Institutions and Fiscal Performance in Africa - https://www.nottingham.ac.uk/credit/documents/papers/10-02.pdf
+
+5. Program classification for performance-based budgeting - https://documents.worldbank.org/en/publication/documents-reports/documentdetail/627581468322141749
+
+6. Evaluation of General Budget Support – Mozambique Country Report - https://cdn.sida.se/publications/files/-evaluation-of-general-budget-support-mozambique-country-report.pdf
+
+7. Participatory Budgeting in Africa – A Training Companion - https://internationalbudget.org/wp-content/uploads/Participatory-Budgeting-in-Africa-A-Training-Companion-with-Cases-from-Eastern-and-Southern-Africa.pdf
+
+8. How Far Have Public Financial Management Reforms Come in Africa? - https://research.hks.harvard.edu/publications/getFile.aspx?Id=548
+
+9. Evaluation of General Budget Support - Rwanda Country Report - https://assets.publishing.service.gov.uk/media/5a790a40e5274a2acd18bbdd/gbs-rwanda.pdf
+
+10. Medium-Term Budget Frameworks in Sub-Saharan African Countries - https://www.elibrary.imf.org/view/journals/001/2017/203/article-A001-en.xml
+
+11. Budget institutions and fiscal performance in Africa - https://www.econstor.eu/bitstream/10419/65425/1/643906401.pdf
+
+12. BUDGETING FOR RESULTS: - https://www.cabri-sbo.org/uploads/files/Documents/report_2012_cabri_cabri_seminar_cabri_8th_annual_seminar_english_8th_cabri_post_seminar_publication_eng_web.pdf
+
+13. Putting Aid On Budget: A Case Study of Uganda - https://mokoro.co.uk/wp-content/uploads/AOB-UgandaReportApr08final.pdf
+
+14. Budget line items for immunization in 33 African countries - https://doi.org/10.1093/heapol/czaa040
+
+15. Leveraging public financial management for better health in Africa - https://apps.who.int/iris/bitstream/handle/10665/339297/WHO-UHC-HGF-HFWorkingPaper-19.2-eng.pdf?sequence=1
+
+16. Budget Practices and Procedures in Africa 2008 - https://www.afdb.org/sites/default/files/documents/budget_documents/cabri_afdb_front_web_-_english.pdf
+
+17. NATIONAL FINANCIAL INCLUSION STRATEGIES CURRENT STATE OF PRACTICE - https://www.afi-global.org/sites/default/files/publications/fisplg-state_of_practice.pdf
+
+18. Country Cooperation Strategy 2022–2026 Liberia - https://iris.who.int/bitstream/handle/10665/379623/9789290314073-eng.pdf?sequence=1
+
+19. Institutional Arrangements for Adaptation - https://gca.org/wp-content/uploads/2023/01/GCA_State-and-Trends-in-Adaptation-2022_Institutional-Arrangements.pdf
+
+20. Strengthening Anglophone Africa M&E systems: A CLEAR-AA perspective on progress, challenges and way forward - https://aejonline.org/index.php/aej/article/view/601/1044
+
+21. THE AFRICAN GROWTH AND OPPORTUNITY ACT - https://ustr.gov/sites/default/files/2024%2520AGOA%2520Biennial%2520Report%25206-27-2024%2520PDF.pdf
+
+22. Workshop Report - Integrated National Financing Framework - https://inff.org/assets/resource/report-of-the-workshop-on-integrated-national-financing-frameworks-in-africa-2021.pdf
+
+23. E/ECA/CM/56/6 Economic and Social Council - https://www.un.org/regionalcommissionsnyoffice/sites/www.un.org.regionalcommissionsnyoffice/files/e_eca_cm_56_6_e.pdf
+
+24. Evidence on Financing and Budgeting Mechanisms to Support Intersectoral Actions Between Health, Education, Social Welfare and Labour Sectors to Address the Social Determinants of Health: A Review of the Evidence - https://www.ncbi.nlm.nih.gov/books/NBK391061/
+
+25. Coordinating the Planning and Budgeting Functions of Government - https://blog-pfm.imf.org/en/pfmblog/2017/04/coordinating-the-planning-and-budgeting-functions-of-government
+
+26. Participatory Budgeting in Africa – A Training Companion for Anglophone Countries - https://internationalbudget.org/wp-content/uploads/Participatory-Budgeting-in-Africa-A-Training-Companion-with-Cases-from-Eastern-and-Southern-Africa.pdf
+
+27. Participatory budgeting in a South African local municipality - https://www.researchgate.net/publication/351694394_Participatory_budgeting_in_a_South_African_local_municipality
+28. 
 # Table of Contents
 
 - [Aug 29, 2025](#aug-29-2025)
