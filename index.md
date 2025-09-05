@@ -14,6 +14,69 @@
 
 ---
 
+## Table of Contents
+* [Examples of Cost-Effective Joint Planning & Budgeting in Africa](#examples-of-cost-effective-joint-planning--budgeting-in-africa)
+  * [Uganda: Programme-Based Budgeting (PPBB)](#uganda-programme-based-budgeting-ppbb)
+  * [Burkina Faso: Programme-Based Budgeting (PPBB)](#burkina-faso-programme-based-budgeting-ppbb)
+  * [Rwanda: Integrated Planning via MINECOFIN](#rwanda-integrated-planning-via-minecofin)
+* [Strategic Coordination Platforms across PM Office, Finance & Sector Ministries](#strategic-coordination-platforms-across-pm-office-finance--sector-ministries)
+  * [Rwanda: Merged Ministry & Sector Coordination](#rwanda-merged-ministry--sector-coordination)
+  * [Liberia: Unified Ministerial Role During Ebola](#liberia-unified-ministerial-role-during-ebola)
+  * [Uganda: Office of the Prime Minister Coordination](#uganda-office-of-the-prime-minister-coordination)
+* [Enabling Factors for Success](#enabling-factors-for-success)
+
+---
+
+## Examples of Cost-Effective Joint Planning & Budgeting in Africa
+
+### Uganda: Programme-Based Budgeting (PPBB)
+Uganda has implemented Performance and Programme-Based Budgeting (PPBB) since the 1990s, evolving it to link resources with results across ministries and local governments. This involves organizing budgets around "vote functions" (programmes, projects, and local government grants), integrated through the Budget Act 2001 and Public Finance and Accountability Act 2003. Joint mechanisms include Sector Working Groups (SWGs) that consolidate sector reports into the National Budget Framework Paper, and the Output Budgeting Tool (OBT) used across central and higher local government levels for formulation, reporting, and performance tracking.
+
+Cost-effectiveness is achieved by embedding reforms into existing structures like Medium-Term Expenditure Frameworks (MTEFs), avoiding parallel systems, and focusing on phased roll-outs with on-the-job training. This has led to better parliamentary oversight, senior management involvement in work plans, and improved resource allocation without significant new expenditures.
+
+### Burkina Faso: Programme-Based Budgeting (PPBB)
+Burkina Faso launched PPBB in 1997, aligning with West African Economic and Monetary Union (WAEMU) directives, and institutionalized it through a national steering committee (CP/BPE) involving ministries, local communities, civil society, and Parliament. Joint planning occurs via ministerial units defining programmes (missions, actions, projects, activities), with participatory workshops and a chain of dialogue among stakeholders, extending to local levels. The 2011 Organic Budget Law mandates programme-based budgets and performance reports, integrating across sectors.
+
+Cost-effectiveness comes from using existing sectoral strategies and MTEFs, mobilizing donor resources (e.g., African Development Bank), and attributing costs to programmes without overhauling IT systems entirely. This approach clarifies indicators and targets, enabling efficient medium-term planning with minimal additional costs.
+
+### Rwanda: Integrated Planning via MINECOFIN
+Rwanda merged its Ministry of Finance and Planning into MINECOFIN in 1997, creating a unified structure for joint planning and budgeting across ministries, agencies, and decentralized entities. The Medium-Term Expenditure Framework (MTEF) introduced in 2000 allows line ministries to participate in budget preparation based on cabinet-approved ceilings, aligned with sector strategies and the Poverty Reduction Strategy (PRS). Mechanisms include the Strategic Planning Model (SPM) linking objectives to outputs, sector clusters for consultations, and Sector Public Expenditure Reviews (SPERs) involving participatory analysis.
+
+Cost-effectiveness is enhanced by reducing duplication through integrated recurrent and capital budgets, pooling resources via sector-wide approaches (SWAPs), and harmonizing donor procedures to lower transaction costs. This has improved alignment with national priorities without creating new bureaucracies.
+
+---
+
+## Strategic Coordination Platforms across PM Office, Finance & Sector Ministries
+
+### Rwanda: Merged Ministry & Sector Coordination
+Rwanda's MINECOFIN serves as a central platform, integrating planning and budgeting with sector ministries through focal points and the Public Investment Committee (PIC), which approves projects based on sector strategies. Coordination involves iterative consultations covering both capital and recurrent expenditures, aligned with national plans like the Economic Development and Poverty Reduction Strategy. While not directly under the Prime Minister, this platform ensures alignment via joined-up processes and a shared chart of accounts.
+
+Cost-effectiveness stems from integrated financial systems and capacity-building focal points, avoiding separate units.
+
+### Liberia: Unified Ministerial Role During Ebola
+During the 2014-2016 Ebola crisis, Liberia consolidated finance and planning under Minister Amara Mohamed Konneh, creating a de facto coordination platform. This unified role enabled rapid resource mobilization, macroeconomic stability, and implementation of the Economic Stabilization and Recovery Plan (ESRP), coordinating with sector ministries, donors, and civil society. The Ebola Trust Fund ensured timely allocations, maintaining essential services and salaries.
+
+Cost-effectiveness was achieved by leveraging crisis momentum for swift, targeted fiscal policies without new infrastructure.
+
+### Uganda: Office of the Prime Minister Coordination
+Uganda's Office of the Prime Minister (OPM) provides a strategic platform for coordinating government policy implementation across sectors, including with the Ministry of Finance. It strengthens sector-wide coordination, international commitments, and civil society engagement to align planning, resource allocation, and execution. This integrates with PPBB mechanisms for joint budgeting.
+
+Cost-effectiveness comes from using existing OPM structures for oversight, reducing silos without additional platforms.
+
+---
+
+## Enabling Factors for Success
+From these examples, common enabling factors include political commitment, integrated structures, and capacity building. Below is a table summarizing them:
+
+| Enabling Factor              | Description                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|
+| **Political and Leadership Commitment** | Strong support from executives, parliaments, and leaders (e.g., Uganda's post-2011 elections, Burkina Faso's WAEMU directives, Liberia's crisis response) drives reforms and ensures compliance. |
+| **Institutional Integration** | Merging functions (e.g., Rwanda's MINECOFIN, Liberia's unified minister) or using committees like PIC eliminates silos and aligns planning with budgeting. |
+| **Use of Existing Frameworks** | Leveraging MTEFs, sector strategies, and tools like OBT (Uganda) or SPM (Rwanda) integrates systems cost-effectively without new builds. |
+| **Participatory Approaches** | Involving stakeholders, civil society, and locals (e.g., Burkina Faso's workshops, Rwanda's sector clusters) fosters ownership and alignment. |
+| **Capacity Building and Training** | Targeted training, focal points, and donor support (e.g., Rwanda's workshops, Uganda's on-the-job OBT training) build skills for sustained implementation. |
+| **Donor Coordination and Crisis Momentum** | Harmonized donor aid (Rwanda) and leveraging crises (Liberia's Ebola) accelerate reforms and resource efficiency.
+
 ## Examples of Cost-Effective Joint Planning and Budgeting in Africa
 
 ### Uganda & Burkina Faso: Programme-Based Budgeting (PPBB)
