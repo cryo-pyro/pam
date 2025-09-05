@@ -1,6 +1,4 @@
-Below is a refreshed **Table of Contents** in Markdown for your GitHub documentation, followed by enriched answers to your two key questions, complete with real, Africa-based examples and clear enabling factors.
 
----
 
 ## Table of Contents
 
@@ -65,7 +63,6 @@ From these examples, the following enabling factors emerge:
 
 ---
 
-Let me know if you'd like me to draft executive-style one-pagers about any of these cases or develop policy memos capturing these insights!
 
 [1]: https://www.cabri-sbo.org/uploads/files/Documents/report_2013_cabri_capable_finance_ministries_budget_practices_and_reforms_english_cabri_status_report_english.pdf?utm_source=chatgpt.com "Performance and programme-based budgeting in Africa"
 [2]: https://documents1.worldbank.org/curated/en/966391468194045926/pdf/336080PAPER0wp82.pdf?utm_source=chatgpt.com "33608"
